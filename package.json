@@ -2,9 +2,8 @@
   "name": "file-upload-spfx-library",
   "version": "1.0.0",
   "description": "Made with create-react-library",
-  "author": "",
   "license": "MIT",
-  "repository": "/file-upload-spfx-library",
+  "repository": "kmrshubham0/file-upload-spfx-library",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
@@ -59,5 +58,10 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "author":{
+    "name": "Kumar Shubham",
+    "email": "shubham.4052@gmail.com"
+  },
+  "homepage": "https://github.com/kmrshubham0/file-upload-spfx-library"
 }

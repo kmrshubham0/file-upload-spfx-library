@@ -28,3 +28,8 @@ class Example extends Component {
 ## License
 
 MIT © [](https://github.com/)
+
+git remote add origin https://github.com/kmrshubham0/file-upload-spfx-library.git # Sets the new remote for the local repo
+git add .
+git commit -m 'Initial Commit'
+git push -u origin main  # Pushes the changes to the remote repository
