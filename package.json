@@ -1,6 +1,6 @@
 {
   "name": "file-upload-spfx-library",
-  "version": "1.0.0",
+  "version": "1.0.18",
   "description": "Made with create-react-library",
   "license": "MIT",
   "repository": "kmrshubham0/file-upload-spfx-library",
@@ -59,9 +59,15 @@
   "files": [
     "dist"
   ],
-  "author":{
+  "author": {
     "name": "Kumar Shubham",
     "email": "shubham.4052@gmail.com"
   },
-  "homepage": "https://github.com/kmrshubham0/file-upload-spfx-library"
+  "homepage": "https://github.com/kmrshubham0/file-upload-spfx-library",
+  "dependencies": {
+    "@fluentui/react": "^8.72.1",
+    "@fluentui/react-file-type-icons": "^8.6.8",
+    "@microsoft/sp-http": "^1.15.0-rc.0",
+    "@pnp/spfx-controls-react": "3.8.0"
+  }
 }

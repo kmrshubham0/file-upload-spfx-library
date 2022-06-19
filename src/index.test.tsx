@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import  AttachmentControl  from '.'
 
-describe('ExampleComponent', () => {
+describe('AttachmentControl', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(AttachmentControl).toBeTruthy()
   })
 })
